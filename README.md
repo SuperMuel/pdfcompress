@@ -1,5 +1,3 @@
-Here is a concise but informative README.md for this PDF compression script:
-
 # PDF Compressor
 
 This Python script compresses PDF files using Ghostscript. 
